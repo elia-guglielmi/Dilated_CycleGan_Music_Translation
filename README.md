@@ -59,7 +59,7 @@ Il processo completo di trasformazione è illustrato nel diagramma seguente e im
 1.  **Clona il repository:**
     ```bash
     git clone https://github.com/elia-guglielmi/Dilated_CycleGan_Music_Translation.git
-    cd https://github.com/elia-guglielmi/Dilated_CycleGan_Music_Translation.git
+    cd Dilated_CycleGan_Music_Translation
     ```
 
 2.  **Installa le dipendenze:**
